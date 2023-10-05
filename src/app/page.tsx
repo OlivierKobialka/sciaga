@@ -58,7 +58,7 @@ export default function Home() {
 			</section>
 			{/*  */}
 			<section>
-				<h1 className='text-6xl font-bold mb-5'>Tkanki zwierzęce</h1>
+				<h1 className='text-6xl font-bold mb-5 mt-10'>Tkanki zwierzęce</h1>
 				<section className='grid grid-cols-3 gap-3'>
 					<div className='flex flex-col border-4 p-5 rounded-2xl border-green-200'>
 						<h1 className='text-4xl font-bold'>Tkank nabłonkowa</h1>
