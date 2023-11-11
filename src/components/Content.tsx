@@ -12,7 +12,7 @@ const Content = ({
 	images?: string[];
 }) => {
 	return (
-		<main className='mb-10'>
+		<main className='mb-10 border-b pb-10'>
 			<header className='text-left w-full text-4xl font-semibold'>
 				{title}
 			</header>
