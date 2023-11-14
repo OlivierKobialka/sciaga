@@ -13,7 +13,7 @@ const Content = ({
 }) => {
 	return (
 		<main className='mb-10 border-b pb-10'>
-			<header className='text-left w-full text-4xl font-semibold'>
+			<header className='text-left w-full text-4xl font-semibold mb-3'>
 				{title}
 			</header>
 			<div className='grid grid-cols-1 lg:grid-cols-2 gap-3'>
