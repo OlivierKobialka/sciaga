@@ -25,7 +25,7 @@ const Content = ({
 							width={500}
 							height={500}
 							alt={"title " + title}
-							className='rounded-xl'
+							className='rounded-xl object-cover'
 						/>
 					)}
 				</section>
